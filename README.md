@@ -1,3 +1,7 @@
+# lyricmeasure
+
+### App that measures lyrical complexity of the #1 pop song
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
